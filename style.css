@@ -1,0 +1,47 @@
+.header{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.sizing{
+    display: flex;
+    justify-content: space-around;
+}
+button:hover{
+    cursor: pointer;
+
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    float: left;
+    margin-left: 50px;
+    font-size: large;
+}
+li:hover{
+    cursor: pointer;
+}
+
+
+.main{
+    background-color: wheat;
+    height: 500px;
+}
+.main h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.footer{
+    text-align: center;
+    color: white;
+
+}
+body{
+    background-color: black;
+}
